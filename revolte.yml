@@ -1,6 +1,6 @@
 revolte:
   version: '1'
-  project: excel to app
+  project: "excel to app"
   appName: onecliqapp
   env:
     preview:
