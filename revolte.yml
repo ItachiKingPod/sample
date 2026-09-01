@@ -6,6 +6,7 @@ revolte:
     preview:
       services:
         rid_1:
+          name: onecliqapp-web
           type: WEB_APP
           entryPoint: src/app/page.tsx
           properties:
@@ -15,6 +16,7 @@ revolte:
       branch: qa
       services:
         rid_1:
+          name: onecliqapp-web
           type: WEB_APP
           entryPoint: src/app/page.tsx
           properties:
@@ -24,6 +26,7 @@ revolte:
       branch: staging
       services:
         rid_1:
+          name: onecliqapp-web
           type: WEB_APP
           entryPoint: src/app/page.tsx
           properties:
@@ -33,6 +36,7 @@ revolte:
       branch: main
       services:
         rid_1:
+          name: onecliqapp-web
           type: WEB_APP
           entryPoint: src/app/page.tsx
           properties:
