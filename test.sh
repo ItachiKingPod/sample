@@ -1,0 +1,3 @@
+echo $AGENT_SECRET
+
+``````
