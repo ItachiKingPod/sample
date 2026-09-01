@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true
+    "terminal.integrated.profiles.linux": {
+    "restricted-bash": {
+      "path": "/bin/bash",
+    }
+  },
+  "terminal.integrated.automationProfile.linux": {
+    "path": "/bin/bash"
+  },
+}
